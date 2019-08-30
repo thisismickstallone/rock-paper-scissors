@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Udacity Python Project
+Udacity Intro to Programming: Python Project
